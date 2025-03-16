@@ -139,11 +139,3 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
-
-"""
-HomeWork.
-1. Add more responses.
-2. Add a way to exit the program through the chat.
-3. Add some cool features, like checking for the weather forecast, send an email address.
-4. Make it so that if the accuracy falls, below 50%, it returns a default response.
-"""
